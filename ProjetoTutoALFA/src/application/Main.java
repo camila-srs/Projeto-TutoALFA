@@ -22,6 +22,8 @@ public class Main extends Application {
 			
 			primaryStage.setTitle(""); // TITILO DA TELA
 			primaryStage.show();
+			
+			// TESTE GIT
 		 
 	}
 	
